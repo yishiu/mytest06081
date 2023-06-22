@@ -9,7 +9,7 @@ pipeline {
     }
     post {
         always {
-            junit 'output.xml'
+            junit 'Byyihsiu_usc.txt'
         }
     }
 }
